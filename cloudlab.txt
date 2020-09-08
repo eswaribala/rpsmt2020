@@ -1,0 +1,52 @@
+
+	Azure Student Pass Code	PARTICIPANT NAME
+ 	Q2D0L7CC91LI82GCFK	Trainer
+1	Q3NNQKO1UD4J5U3D84	Aravind S
+2	Q4JI9Z4YC6PJBUJ6RE	Ashwin Pais
+3	Q5OXG1N45WNF71KW8H	Baskar Selvam
+4	Q5UUY3YPJKJIZ0GEUC	Bhargavi Gazula 
+5	QB8TBWILDU6QJNH8KH	Raguvaran Samidurai
+6	QC19EQXYNZKBMFPWMD	Rohan Chattopadhaya 
+7	QDIE1CU0ZWN51DPUDH	Sujatha Nagaraju
+8	QGHZPQQQG9PNT44VW1	Vaibhav Bhoir 
+9	QGRPVDCCX4UY3YZX1U	Swapna Sharma
+10	QIJKVXBXU91VUC4YJX	Velmani Kesavnathan
+11	QJBJP4GOOR86907QPY	Venkatesan Sanjeevi
+12	QJKKGYLB62JRCOGFRZ	Suresh Ramineni 
+13	QK7K0MVMZUG0KE88ES	Pushpinder Singh 
+14	QLD4T69XT81IESD4JF	Sunil Samawar 
+15	QLY60GX08KOP914O7Q	Christian Cervantes
+16	QO0D951LXJGHITB30T	Jacob Krol
+17	QO28MHPQR6WIKPU5RL	Rahul Gupta
+18	QSSBF4U9WKGR1YC4YV	Arpan Dutta
+19	QU7LP4OCPF4JH9LDQ6	Nayan Ch
+20	QWIT6EBV9FI9HIEFSO	Ketan Vadhiya 
+21	QXFR9TO76JR0B5FQP4	Karthikeyan Rengasamy
+22	QYHQLFRUIV4IG0RL96	Banupriya Marimuthu
+
+
+https://cloud.cdp.rpsconsulting.in/console/#/
+SI.NO	Username	Password
+ 	      TCS-Mass-Trainer	rps@12345
+1	TCS-Mass-User01	rps@12345
+2	TCS-Mass-User02	rps@12345
+3	TCS-Mass-User03	rps@12345
+4	TCS-Mass-User04	rps@12345
+5	TCS-Mass-User05	rps@12345
+6	TCS-Mass-User06	rps@12345
+7	TCS-Mass-User07	rps@12345
+8	TCS-Mass-User08	rps@12345
+9	TCS-Mass-User09	rps@12345
+10	TCS-Mass-User10	rps@12345
+11	TCS-Mass-User11	rps@12345
+12	TCS-Mass-User12	rps@12345
+13	TCS-Mass-User13	rps@12345
+14	TCS-Mass-User14	rps@12345
+15	TCS-Mass-User15	rps@12345
+16	TCS-Mass-User16	rps@12345
+17	TCS-Mass-User17	rps@12345
+18	TCS-Mass-User18	rps@12345
+19	TCS-Mass-User19	rps@12345
+20	TCS-Mass-User20	rps@12345
+21	TCS-Mass-User21	rps@12345
+22	TCS-Mass-User22	rps@12345
