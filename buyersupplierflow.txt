@@ -1,0 +1,10 @@
+Mass transit
+                      startup.cs
+Buyer ---> signalr--->Azure function--->storage-->publish---> queue
+
+Buyer dashboard---> real update --->
+
+                           IPublisher/IEndpoint
+supplier--->queue-->accept/reject--> queue--> function---> update the database---> buyer ui--> signalr-->triggered--> 
+Need to develop
+buyer dashboard
